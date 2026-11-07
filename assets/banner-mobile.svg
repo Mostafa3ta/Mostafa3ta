@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300" role="img" aria-labelledby="title desc">
+  <title id="title">Mostafa Mahmoud, Frontend Engineer</title>
+  <desc id="desc">Alexandria, Egypt. Three years of experience. Open to relocation and remote work.</desc>
+  <!-- Compact banner for narrow screens. It themes itself: light by default, dark when the page is dark. -->
+  <defs>
+    <radialGradient id="glow" cx="0.95" cy="0.05" r="0.75">
+      <stop offset="0" class="glow-a"/>
+      <stop offset="1" class="glow-b"/>
+    </radialGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle class="dot" cx="1.5" cy="1.5" r="1.5"/>
+    </pattern>
+    <style>
+      .bg { fill: #f8fafc; }
+      .edge { fill: none; stroke: #e2e8f0; }
+      .dot { fill: #0f172a; fill-opacity: 0.10; }
+      .glow-a { stop-color: #14b8a6; stop-opacity: 0.22; }
+      .glow-b { stop-color: #14b8a6; stop-opacity: 0; }
+      .bar, .pill-dot { fill: #0d9488; }
+      .pill-bg { fill: #ffffff; fill-opacity: 0.9; stroke: #0d9488; stroke-opacity: 0.55; }
+      .name { font: 700 48px -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #0f172a; letter-spacing: -1px; }
+      .role { font: 600 26px -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #0f766e; }
+      .meta { font: 400 19px -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #64748b; }
+      .pill { font: 500 19px -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #0f766e; }
+      @media (prefers-color-scheme: dark) {
+        .bg { fill: #0b1220; }
+        .edge { stroke: #1e293b; }
+        .dot { fill: #94a3b8; fill-opacity: 0.14; }
+        .glow-a { stop-color: #2dd4bf; stop-opacity: 0.30; }
+        .glow-b { stop-color: #2dd4bf; }
+        .bar, .pill-dot { fill: #2dd4bf; }
+        .pill-bg { fill: #0f172a; stroke: #2dd4bf; }
+        .name { fill: #f1f5f9; }
+        .role { fill: #5eead4; }
+        .meta { fill: #94a3b8; }
+        .pill { fill: #99f6e4; }
+      }
+    </style>
+  </defs>
+  <rect class="bg" width="600" height="300" rx="18"/>
+  <rect width="600" height="300" rx="18" fill="url(#dots)"/>
+  <rect width="600" height="300" rx="18" fill="url(#glow)"/>
+  <rect class="edge" x="0.5" y="0.5" width="599" height="299" rx="18"/>
+  <rect class="bar" x="40" y="48" width="6" height="124" rx="3"/>
+  <text class="name" x="66" y="96">Mostafa Mahmoud</text>
+  <text class="role" x="66" y="134">Frontend Engineer</text>
+  <text class="meta" x="66" y="166">Alexandria, Egypt · 3 years of experience</text>
+  <g transform="translate(40 212)">
+    <rect class="pill-bg" x="0.5" y="0.5" width="399" height="47" rx="24"/>
+    <circle class="pill-dot" cx="26" cy="24" r="5"/>
+    <text class="pill" x="44" y="30">Open to relocation and remote work</text>
+  </g>
+</svg>

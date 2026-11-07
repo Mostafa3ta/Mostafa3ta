@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="250" viewBox="0 0 600 250" role="img" aria-labelledby="title">
+  <title id="title">Have a frontend role in mind? Full-time roles and frontend contracts. Email mostafa.mahmoud.frontend@gmail.com</title>
+  <!-- Compact contact strip for narrow screens. It themes itself: light by default, dark when the page is dark. -->
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" class="bg-a"/>
+      <stop offset="1" class="bg-b"/>
+    </linearGradient>
+    <style>
+      .bg-a { stop-color: #f8fafc; }
+      .bg-b { stop-color: #ecfdf5; }
+      .edge { fill: none; stroke: #e2e8f0; }
+      .btn { fill: #0f766e; }
+      .h { font: 700 30px -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #0f172a; letter-spacing: -0.5px; }
+      .p { font: 400 19px -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #475569; }
+      .b { font: 600 19px -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #ffffff; }
+      @media (prefers-color-scheme: dark) {
+        .bg-a { stop-color: #0b1220; }
+        .bg-b { stop-color: #0f2a2a; }
+        .edge { stroke: #1e293b; }
+        .btn { fill: #2dd4bf; }
+        .h { fill: #f1f5f9; }
+        .p { fill: #94a3b8; }
+        .b { fill: #042f2e; }
+      }
+    </style>
+  </defs>
+  <rect width="600" height="250" rx="18" fill="url(#bg)"/>
+  <rect class="edge" x="0.5" y="0.5" width="599" height="249" rx="18"/>
+  <text class="h" x="40" y="66">Have a frontend role in mind?</text>
+  <text class="p" x="40" y="102">Full-time roles and frontend contracts</text>
+  <text class="p" x="40" y="130">mostafa.mahmoud.frontend@gmail.com</text>
+  <g transform="translate(40 162)">
+    <rect class="btn" width="184" height="52" rx="26"/>
+    <text class="b" x="92" y="33" text-anchor="middle">Email me  →</text>
+  </g>
+</svg>

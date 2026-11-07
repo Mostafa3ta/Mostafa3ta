@@ -1,4 +1,5 @@
 <picture>
+  <source media="(max-width: 600px)" srcset="assets/banner-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <img alt="Mostafa Mahmoud, Frontend Engineer. Alexandria, Egypt, three years of experience, sole developer of a live platform. Open to relocation and remote work." src="assets/banner-light.svg" width="100%">
 </picture>
@@ -71,6 +72,7 @@ Elevent and MedicaProf are private codebases. These three small, finished apps e
 
 <a href="mailto:mostafa.mahmoud.frontend@gmail.com">
   <picture>
+    <source media="(max-width: 600px)" srcset="assets/contact-mobile.svg">
     <source media="(prefers-color-scheme: dark)" srcset="assets/contact-dark.svg">
     <img alt="Have a frontend role in mind? Full-time roles and frontend contracts. Email mostafa.mahmoud.frontend@gmail.com" src="assets/contact-light.svg" width="100%">
   </picture>
