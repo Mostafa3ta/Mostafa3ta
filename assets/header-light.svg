@@ -14,7 +14,7 @@
       .role { font: 600 27px -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #0f766e; }
       .rest { font: 400 27px -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #334155; }
       .meta { font: 400 20px -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #64748b; }
-      .pill { font: 500 18px -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #0f766e; }
+      .pill { font: 500 17px -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #0f766e; }
     </style>
   </defs>
   <rect width="1200" height="280" rx="18" fill="#f8fafc"/>
@@ -25,9 +25,9 @@
   <text class="name" x="92" y="126">Mostafa Mahmoud</text>
   <text x="92" y="172"><tspan class="role">Frontend Engineer</tspan><tspan class="rest"> · React · Next.js · TypeScript</tspan></text>
   <text class="meta" x="92" y="206">Alexandria, Egypt · 3 years with React, Next.js and TypeScript</text>
-  <g transform="translate(776 116)">
-    <rect x="0.5" y="0.5" width="351" height="51" rx="26" fill="#ffffff" fill-opacity="0.9" stroke="#0d9488" stroke-opacity="0.55"/>
-    <circle cx="28" cy="26" r="5" fill="#0d9488"/>
-    <text class="pill" x="44" y="32">Open to relocation and remote work</text>
+  <g transform="translate(728 114)">
+    <rect x="0.5" y="0.5" width="399" height="51" rx="26" fill="#ffffff" fill-opacity="0.9" stroke="#0d9488" stroke-opacity="0.55"/>
+    <circle cx="32" cy="26" r="5" fill="#0d9488"/>
+    <text class="pill" x="218" y="32" text-anchor="middle">Open to relocation and remote work</text>
   </g>
 </svg>

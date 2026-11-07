@@ -58,11 +58,14 @@ Elevent and MedicaProf are private codebases. These three small, finished apps e
 
 ## Stack
 
-**Frontend**&nbsp; ![React](https://img.shields.io/badge/React-1e293b?style=for-the-badge&logo=react&logoColor=61dafb) ![Next.js](https://img.shields.io/badge/Next.js-1e293b?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-1e293b?style=for-the-badge&logo=typescript&logoColor=3178c6) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1e293b?style=for-the-badge&logo=tailwindcss&logoColor=06b6d4) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-1e293b?style=for-the-badge&logo=shadcnui&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-1e293b?style=for-the-badge&logo=reacthookform&logoColor=ec5990) ![Zod](https://img.shields.io/badge/Zod-1e293b?style=for-the-badge&logo=zod&logoColor=3e67b1)
+**Frontend**<br>
+![React](https://img.shields.io/badge/React-1e293b?style=for-the-badge&logo=react&logoColor=61dafb) ![Next.js](https://img.shields.io/badge/Next.js-1e293b?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-1e293b?style=for-the-badge&logo=typescript&logoColor=3178c6) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1e293b?style=for-the-badge&logo=tailwindcss&logoColor=06b6d4) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-1e293b?style=for-the-badge&logo=shadcnui&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-1e293b?style=for-the-badge&logo=reacthookform&logoColor=ec5990) ![Zod](https://img.shields.io/badge/Zod-1e293b?style=for-the-badge&logo=zod&logoColor=3e67b1)
 
-**Testing**&nbsp; ![Vitest](https://img.shields.io/badge/Vitest-1e293b?style=for-the-badge&logo=vitest&logoColor=6e9f18) ![Testing Library](https://img.shields.io/badge/Testing_Library-1e293b?style=for-the-badge&logo=testinglibrary&logoColor=e33332) ![Playwright](https://img.shields.io/badge/Playwright-1e293b?style=for-the-badge)
+**Testing**<br>
+![Vitest](https://img.shields.io/badge/Vitest-1e293b?style=for-the-badge&logo=vitest&logoColor=6e9f18) ![Testing Library](https://img.shields.io/badge/Testing_Library-1e293b?style=for-the-badge&logo=testinglibrary&logoColor=e33332) ![Playwright](https://img.shields.io/badge/Playwright-1e293b?style=for-the-badge)
 
-**Tooling**&nbsp; ![Git](https://img.shields.io/badge/Git-1e293b?style=for-the-badge&logo=git&logoColor=f05032) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1e293b?style=for-the-badge&logo=githubactions&logoColor=2088ff) ![Cloudflare](https://img.shields.io/badge/Cloudflare-1e293b?style=for-the-badge&logo=cloudflare&logoColor=f38020)
+**Tooling**<br>
+![Git](https://img.shields.io/badge/Git-1e293b?style=for-the-badge&logo=git&logoColor=f05032) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1e293b?style=for-the-badge&logo=githubactions&logoColor=2088ff) ![Cloudflare](https://img.shields.io/badge/Cloudflare-1e293b?style=for-the-badge&logo=cloudflare&logoColor=f38020)
 
 <br>
 
