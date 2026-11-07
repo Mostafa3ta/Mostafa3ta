@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
   <title id="title">Mostafa Mahmoud, Frontend Engineer</title>
-  <desc id="desc">React, Next.js and TypeScript. Alexandria, Egypt. Open to relocation and remote work.</desc>
+  <desc id="desc">Alexandria, Egypt. Three years of experience, sole developer of a live platform. Open to relocation and remote work.</desc>
   <defs>
     <radialGradient id="glow" cx="0.9" cy="0.1" r="0.6">
       <stop offset="0" stop-color="#2dd4bf" stop-opacity="0.28"/>
@@ -12,9 +12,9 @@
     <style>
       .name { font: 700 64px -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #f1f5f9; letter-spacing: -1.5px; }
       .role { font: 600 27px -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #5eead4; }
-      .rest { font: 400 27px -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #cbd5e1; }
       .meta { font: 400 20px -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #94a3b8; }
-      .pill { font: 500 17px -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #99f6e4; }
+      .s1 { font: 600 18px -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #99f6e4; }
+      .s2 { font: 400 16px -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #94a3b8; }
     </style>
   </defs>
   <rect width="1200" height="280" rx="18" fill="#0b1220"/>
@@ -23,11 +23,12 @@
   <rect x="0.5" y="0.5" width="1199" height="279" rx="18" fill="none" stroke="#1e293b"/>
   <rect x="60" y="78" width="6" height="128" rx="3" fill="#2dd4bf"/>
   <text class="name" x="92" y="126">Mostafa Mahmoud</text>
-  <text x="92" y="172"><tspan class="role">Frontend Engineer</tspan><tspan class="rest"> · React · Next.js · TypeScript</tspan></text>
-  <text class="meta" x="92" y="206">Alexandria, Egypt · 3 years with React, Next.js and TypeScript</text>
-  <g transform="translate(728 114)">
-    <rect x="0.5" y="0.5" width="399" height="51" rx="26" fill="#0f172a" fill-opacity="0.9" stroke="#2dd4bf" stroke-opacity="0.55"/>
-    <circle cx="32" cy="26" r="5" fill="#2dd4bf"/>
-    <text class="pill" x="218" y="32" text-anchor="middle">Open to relocation and remote work</text>
+  <text class="role" x="92" y="172">Frontend Engineer</text>
+  <text class="meta" x="92" y="206">Alexandria, Egypt · 3 years of experience · sole developer of a live platform</text>
+  <g transform="translate(788 96)">
+    <rect x="0.5" y="0.5" width="339" height="87" rx="20" fill="#0f172a" fill-opacity="0.9" stroke="#2dd4bf" stroke-opacity="0.55"/>
+    <circle cx="32" cy="32" r="5" fill="#2dd4bf"/>
+    <text class="s1" x="52" y="38">Open to relocation</text>
+    <text class="s2" x="52" y="64">and remote work</text>
   </g>
 </svg>
