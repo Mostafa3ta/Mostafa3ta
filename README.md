@@ -69,6 +69,6 @@ Elevent and MedicaProf are private codebases. These three small, finished apps e
 <a href="mailto:mostafa.mahmoud.frontend@gmail.com">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/contact-dark.svg">
-    <img alt="Have a frontend role in mind? Email mostafa.mahmoud.frontend@gmail.com" src="assets/contact-light.svg" width="100%">
+    <img alt="Have a frontend role in mind? Full-time roles and frontend contracts. Email mostafa.mahmoud.frontend@gmail.com" src="assets/contact-light.svg" width="100%">
   </picture>
 </a>
