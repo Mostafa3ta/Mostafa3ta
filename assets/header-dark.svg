@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Mostafa Mahmoud, Frontend Engineer</title>
+  <desc id="desc">React, Next.js and TypeScript. Alexandria, Egypt, open to relocation and remote work.</desc>
+  <defs>
+    <radialGradient id="glow" cx="0.86" cy="0.12" r="0.62">
+      <stop offset="0" stop-color="#2dd4bf" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.5" fill="#94a3b8" fill-opacity="0.14"/>
+    </pattern>
+    <style>
+      .name { font: 700 64px -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #f1f5f9; letter-spacing: -1.5px; }
+      .role { font: 600 27px -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #5eead4; }
+      .rest { font: 400 27px -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #cbd5e1; }
+      .meta { font: 400 20px -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #94a3b8; }
+      .pulse { fill: none; stroke: #2dd4bf; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round;
+               stroke-dasharray: 1400; stroke-dashoffset: 1400; animation: draw 1.8s cubic-bezier(0.4, 0, 0.2, 1) 0.2s forwards; }
+      @keyframes draw { to { stroke-dashoffset: 0; } }
+      @media (prefers-reduced-motion: reduce) { .pulse { animation: none; stroke-dashoffset: 0; } }
+    </style>
+  </defs>
+  <rect width="1200" height="320" rx="18" fill="#0b1220"/>
+  <rect width="1200" height="320" rx="18" fill="url(#dots)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#glow)"/>
+  <rect x="0.5" y="0.5" width="1199" height="319" rx="18" fill="none" stroke="#1e293b"/>
+  <text class="name" x="72" y="140">Mostafa Mahmoud</text>
+  <text x="72" y="190"><tspan class="role">Frontend Engineer</tspan><tspan class="rest"> · React · Next.js · TypeScript</tspan></text>
+  <text class="meta" x="72" y="228">Alexandria, Egypt · open to relocation and remote work</text>
+  <path class="pulse" d="M72 278 H780 l14 -24 l16 48 l16 -66 l16 66 l14 -24 H1128"/>
+</svg>

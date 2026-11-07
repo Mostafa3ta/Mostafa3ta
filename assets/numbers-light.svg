@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="title">
+  <title id="title">By the numbers: Elevent live in production since October 2026, built and run as sole developer; 120+ pages, 7 user types and 13 roles; 3 open-source apps, each live with CI on every push; 179 automated tests across them, unit and end to end.</title>
+  <style>
+    .card { fill: #ffffff; stroke: #e2e8f0; }
+    .n { font: 700 38px -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #0f766e; letter-spacing: -0.5px; }
+    .l { font: 400 15px -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #475569; }
+  </style>
+  <g>
+    <rect x="0.5" y="0.5" width="281" height="149" rx="14" class="card"/>
+    <text class="n" x="24" y="62">Oct 2026</text>
+    <text class="l" x="24" y="96">Elevent live in production,</text>
+    <text class="l" x="24" y="118">built and run as sole developer</text>
+  </g>
+  <g transform="translate(306 0)">
+    <rect x="0.5" y="0.5" width="281" height="149" rx="14" class="card"/>
+    <text class="n" x="24" y="62">120+</text>
+    <text class="l" x="24" y="96">pages in the Elevent web app,</text>
+    <text class="l" x="24" y="118">7 user types and 13 roles</text>
+  </g>
+  <g transform="translate(612 0)">
+    <rect x="0.5" y="0.5" width="281" height="149" rx="14" class="card"/>
+    <text class="n" x="24" y="62">3</text>
+    <text class="l" x="24" y="96">open-source apps, each live</text>
+    <text class="l" x="24" y="118">with CI on every push</text>
+  </g>
+  <g transform="translate(918 0)">
+    <rect x="0.5" y="0.5" width="281" height="149" rx="14" class="card"/>
+    <text class="n" x="24" y="62">179</text>
+    <text class="l" x="24" y="96">automated tests across them,</text>
+    <text class="l" x="24" y="118">unit and end to end</text>
+  </g>
+</svg>
