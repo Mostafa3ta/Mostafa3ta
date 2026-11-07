@@ -10,17 +10,24 @@
   <a href="https://portfolio-v2-7p0.pages.dev/cv"><img alt="CV" src="https://img.shields.io/badge/CV-334155?style=for-the-badge&logo=googledrive&logoColor=white"></a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/numbers-dark.svg">
-  <img alt="By the numbers: Elevent live in production since October 2026, built and run as sole developer. 120+ pages, 7 user types and 13 roles. 3 open-source apps, each live with CI on every push. 179 automated tests across them, unit and end to end." src="assets/numbers-light.svg" width="100%">
-</picture>
-
 ## In production
 
-| Project | What it is | My part | Links |
-|---|---|---|---|
-| **Elevent** | Live event-operations platform for food and retail vendors at UAE events: onboarding and document checks, contracts, on-site operations, POS sales, reconciliation and payouts | Sole developer. Built the frontend end to end (120+ pages, 7 user types, 13 roles, 45 permissions), then shipped and operate the full product | [elevent.ae](https://elevent.ae/) · [case study](https://portfolio-v2-7p0.pages.dev/work/elevent) |
-| **MedicaProf** | Production healthcare platform for patients and doctors | Frontend developer in a small team: the appointment calendar (FullCalendar), the analytics dashboards (Apache ECharts) and the shared component library | [medicaprof.com](https://medicaprof.com/en) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://elevent.ae/"><img src="assets/elevent.jpg" alt="Elevent, the live event-operations platform" width="100%"></a>
+      <p><strong>Elevent</strong> · live event-operations platform · <em>sole developer</em><br>
+      <sub>One platform for the whole vendor lifecycle at UAE events: onboarding and document checks, contracts, on-site operations, POS sales, reconciliation and payouts. I built the frontend end to end (120+ pages, 7 user types, 13 roles, 45 permissions), then shipped and operate the full product. Live since October 2026.</sub></p>
+      <p><a href="https://elevent.ae/">elevent.ae</a> · <a href="https://portfolio-v2-7p0.pages.dev/work/elevent">Case study</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://medicaprof.com/en"><img src="assets/medicaprof.jpg" alt="MedicaProf, a production healthcare platform" width="100%"></a>
+      <p><strong>MedicaProf</strong> · production healthcare platform · <em>frontend developer</em><br>
+      <sub>Appointment scheduling and analytics for patients and doctors. In a small cross-functional team I built the appointment calendar (FullCalendar), the analytics dashboards (Apache ECharts) and the shared component library the screens are assembled from.</sub></p>
+      <p><a href="https://medicaprof.com/en">medicaprof.com</a></p>
+    </td>
+  </tr>
+</table>
 
 ## Open source, so the work can be read
 
@@ -49,14 +56,6 @@ Elevent and MedicaProf are private codebases. These three small, finished apps e
   </tr>
 </table>
 
-## How I work
-
-I use AI to write code faster, not to think less. Every change goes through the same five steps, and nothing ships that I can't explain.
-
-| 1 · Spec | 2 · Generate | 3 · Review every line | 4 · Test | 5 · Ship and watch |
-|---|---|---|---|---|
-| What the feature does, who may do it and how it fails, written down before any code. | Small slices with Claude Code and Copilot, one feature or fix at a time, scoped to the spec. | The whole diff, and every "it's done" checked against the source. | Type checks, tests and a build in CI, then real devices at five screen widths. | CI deploys every push, every release rolls back in one step, monitoring alerts me. |
-
 ## Stack
 
 **Frontend**&nbsp; ![React](https://img.shields.io/badge/React-1e293b?style=for-the-badge&logo=react&logoColor=61dafb) ![Next.js](https://img.shields.io/badge/Next.js-1e293b?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-1e293b?style=for-the-badge&logo=typescript&logoColor=3178c6) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1e293b?style=for-the-badge&logo=tailwindcss&logoColor=06b6d4) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-1e293b?style=for-the-badge&logo=shadcnui&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-1e293b?style=for-the-badge&logo=reacthookform&logoColor=ec5990) ![Zod](https://img.shields.io/badge/Zod-1e293b?style=for-the-badge&logo=zod&logoColor=3e67b1)
@@ -65,6 +64,11 @@ I use AI to write code faster, not to think less. Every change goes through the 
 
 **Tooling**&nbsp; ![Git](https://img.shields.io/badge/Git-1e293b?style=for-the-badge&logo=git&logoColor=f05032) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1e293b?style=for-the-badge&logo=githubactions&logoColor=2088ff) ![Cloudflare](https://img.shields.io/badge/Cloudflare-1e293b?style=for-the-badge&logo=cloudflare&logoColor=f38020)
 
-## Currently
+<br>
 
-Open to frontend roles, on site or remote. Latest work: the three open-source apps above, all live, each with tests and CI. The long version, with the Elevent case study, is on the [portfolio](https://portfolio-v2-7p0.pages.dev).
+<a href="mailto:mostafa.mahmoud.frontend@gmail.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/contact-dark.svg">
+    <img alt="Have a frontend role in mind? Email mostafa.mahmoud.frontend@gmail.com" src="assets/contact-light.svg" width="100%">
+  </picture>
+</a>
